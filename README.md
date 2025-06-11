@@ -1,10 +1,6 @@
-- 👋 **Hi, I’m @Hello99world**
-> 我是一个在校大学生🦊
-> I am a college student
+**Hi, I’m @Hello99world**
+ I am a college student
 
-
-**“学习的越多，越觉得自己无知”**
-
-(The more you study, the more you feel ignorant)
+The more you study, the more you feel ignorant
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hello99world&theme=radical)
